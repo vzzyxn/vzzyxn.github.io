@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>myshelf</title>
     <link>https://vzzyxn.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on myshelf</description>
     
     <language>en-us</language><atom:link href="https://vzzyxn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New</title>
-      <link>https://vzzyxn.github.io/posts/post/</link>
+      <title>Books</title>
+      <link>https://vzzyxn.github.io/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vzzyxn.github.io/posts/post/</guid>
+      <guid>https://vzzyxn.github.io/books/</guid>
+      <description> Pyschology of money topics to add topics Shoe Dog </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://vzzyxn.github.io/blog/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vzzyxn.github.io/blog/post/test/</guid>
       <description></description>
     </item>
     

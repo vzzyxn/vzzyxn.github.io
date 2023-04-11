@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vzzyxn.github.io/blog/</loc>
+  </url><url>
+    <loc>https://vzzyxn.github.io/books/</loc>
+  </url><url>
     <loc>https://vzzyxn.github.io/categories/</loc>
   </url><url>
     <loc>https://vzzyxn.github.io/</loc>
   </url><url>
-    <loc>https://vzzyxn.github.io/posts/post/</loc>
-  </url><url>
-    <loc>https://vzzyxn.github.io/posts/</loc>
-  </url><url>
     <loc>https://vzzyxn.github.io/tags/</loc>
+  </url><url>
+    <loc>https://vzzyxn.github.io/blog/post/test/</loc>
   </url>
 </urlset>
