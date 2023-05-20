@@ -1,4 +1,4 @@
 
 ## myshelf
 
-Profile page based on kaslaanka theme.
+myshelf is a profile page based on kaslaanka theme.
