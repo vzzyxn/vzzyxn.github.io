@@ -1,4 +1,4 @@
 
 ## myshelf
 
-Personal page {on test}
+Profile page based on kaslaanka theme.
